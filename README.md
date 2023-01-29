@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UmutKoca
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Django
+- 🌱 I'm trying to learn everything.
 <!---
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me umutkoca
