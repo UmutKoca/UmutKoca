@@ -1,13 +1,44 @@
-- 👋 Hi, I’m @UmutKoca
-- 👀 I’m interested in Web Development
-- 🌱 I'm trying to learn everything.
-- 👀 You can check my Codepen via https://codepen.io/umutkoca 
-<!---
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me umutkoca
---->
+# Hi there, I'm Umut! 👋
 
-<!---
-UmutKoca/UmutKoca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Head of Software & GIS | Geomatics Engineer | AI & Data Enthusiast
+
+I am a software leader and geomatics engineer based in Istanbul, currently serving as the **Head of Software and GIS at Kentaş (Üsküdar Municipality)**. I specialize in the intersection of spatial intelligence, modern data stacks, and autonomous software systems.
+
+---
+
+### 🚀 What I'm Up To
+- 🔭 **Main Project:** Developing **VTS**, an advanced system for property tax evasion detection using spatial analysis.
+- 🤖 **Agentic AI:** Building **HexaScout**, an autonomous POI data validation system driven by AI agents.
+- ⚡ **Data Engineering:** Optimizing workflows with **DuckDB**, **Polars**, and **Dagster**.
+- 🛠 **Micro-SaaS:** Exploring niche software solutions and building desktop applications.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **GIS & Spatial** | PostGIS, MapLibre, Overture Maps, QGIS, GDAL |
+| **Data & Backend** | Python, PostgreSQL, DuckDB, Polars, Dagster |
+| **Frontend & UI** | JavaScript, Desktop Frameworks |
+| **AI & Automation** | Agentic Workflows, LLM Orchestration, Automation Scripts |
+
+---
+
+### 🌿 Beyond the Code
+* 🪕 **Music:** I play the **Bağlama** and am a fan of Turkish folk music.
+* 🏛 **Philosophy:** I practice **Stoic principles** to maintain focus and perspective.
+* 🎓 **Academic:** MSc in Geomatics (ITU), BSc in Geomatics Engineering (YTU).
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE_URL](https://linkedin.com/in/umutkoca)
+
+*"Amor Fati — Love your fate, which is in fact your life."*
+
+---
+
+### 📊 GitHub Stats
+![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
