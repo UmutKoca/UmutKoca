@@ -40,5 +40,5 @@ I am a software leader and geomatics engineer based in Istanbul, currently servi
 ---
 
 ### 📊 GitHub Stats
-![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Umut's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UmutKoca&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UmutKoca&layout=compact&theme=tokyonight)
