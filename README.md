@@ -38,8 +38,3 @@ I am a software leader and geomatics engineer based in Istanbul, currently servi
 *"Amor Fati — Love your fate, which is in fact your life."*
 
 ---
-### 📊 Engineering Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
