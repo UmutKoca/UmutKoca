@@ -38,3 +38,5 @@ I am a software leader and geomatics engineer based in Istanbul, currently servi
 *"Amor Fati — Love your fate, which is in fact your life."*
 
 ---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
