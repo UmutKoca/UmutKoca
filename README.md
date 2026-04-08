@@ -33,7 +33,7 @@ I am a software leader and geomatics engineer based in Istanbul, currently servi
 ---
 
 ### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/YOUR_PROFILE_URL](https://linkedin.com/in/umutkoca)
+* **LinkedIn:** [https://tr.linkedin.com/in/umutkoca](https://tr.linkedin.com/in/umutkoca)
 
 *"Amor Fati — Love your fate, which is in fact your life."*
 
